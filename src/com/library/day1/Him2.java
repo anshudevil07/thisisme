@@ -31,7 +31,6 @@ public class Him2 {
     public void func1(int a, int b) {
         System.out.println(a + b);
         System.out.println(a + b);
-        System.out.println(a + b);
     }
 
     public String func2(String s) {
