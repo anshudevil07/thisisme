@@ -8,7 +8,7 @@ public class Wrap {
 		
 		int item=test1.ConvertToInt("678");
 		System.out.println(item);
-		
+		System.out.println(item);
 		
 	}
 	public double ConvertToDouble(String price) {
